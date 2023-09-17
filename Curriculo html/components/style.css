@@ -1,0 +1,10 @@
+img{
+    border-radius: 150%;
+    max-width: 250px;
+    border: 1px solid black;
+}
+
+body{
+    background-color: rgb(215, 248, 248);
+}
+
